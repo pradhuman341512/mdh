@@ -1,1 +1,4 @@
-# mdh
+git
+ls
+cd desktop
+ls
